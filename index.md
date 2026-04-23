@@ -1,8 +1,3 @@
----
-layout: home
-title: "PinChen-Chen"
----
-
 ## Skills
 
 - **Languages:** HTML, CSS, JavaScript, Python  
@@ -15,7 +10,7 @@ title: "PinChen-Chen"
 
 ### 1. [Project Name 1](https://github.com/yourusername/project1)
 📌 Description: Briefly describe the project and its highlights  
-🛠 Technologies: React, Node.js
+🛠 Technologies: Java
 
 ### 2. [Project Name 2](https://github.com/yourusername/project2)
 📌 Description: Briefly describe the project and its highlights  
@@ -23,7 +18,7 @@ title: "PinChen-Chen"
 
 ### 3. [Project Name 3](https://github.com/yourusername/project3)
 📌 Description: Briefly describe the project and its highlights  
-🛠 Technologies: Python, Flask
+🛠 Technologies: Python
 
 ---
 
