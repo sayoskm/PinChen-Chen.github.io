@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "PinChen-Chen, 陳品臻"
+title: "PinChen-Chen"
 ---
 
 ## Skills
