@@ -25,9 +25,9 @@ Description: This is a **Python-based Auto Play Robot** designed specifically fo
 Technologies: Python
 
 ### 5. [Mouse Maze](https://github.com/Sayoskm/university_projects/tree/main/DataStructure%26Algorithm/MouseMaze)
-
 Description: The program demonstrates pathfinding algorithm, provides a graphical interface for visualizing the maze and the mouse's movement, and supports random maze generation using algorithm.  
 Technologies: C++/CLI WinForms application
+
 ---
 
 ## Contact Me
